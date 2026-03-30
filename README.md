@@ -1,7 +1,7 @@
 # TP0 Sintaxis y Semántica de Lenguajes
 
-## Alumno: Facundo Ezequiel Schoeffler
+### Alumno: Facundo Ezequiel Schoeffler
 
-## Comisión: K2051
+### Comisión: K2051
 
 
