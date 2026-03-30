@@ -1,1 +1,7 @@
-Este es mi repositorio para el TP0 de la cursada de Sintaxis y Semántica de Lenguajes.
+# TP0 Sintaxis y Semántica de Lenguajes
+
+## Alumno: Facundo Ezequiel Schoeffler
+
+## Comisión: K2051
+
+
